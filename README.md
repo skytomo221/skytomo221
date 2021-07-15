@@ -12,5 +12,5 @@
   <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/skytomo221?color=1DA1F2&logo=Twitter&style=for-the-badge">
 </p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skytomo221" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skytomo221&exclude_repo=eularqunesykaxm" />
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=skytomo221&show_icons=true&count_private=true">
